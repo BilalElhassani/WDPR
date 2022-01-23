@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\SignalRChat.csproj",
+  "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\SignalRChat.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,38 +15619,38 @@
   "RootNamespace": "SignalRChat",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

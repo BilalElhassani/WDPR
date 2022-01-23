@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yassi\\.nuget\\packages\\": {}
+    "C:\\Users\\ATadm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\SignalRChat.csproj",
+      "projectUniqueName": "C:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "C:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\SignalRChat.csproj",
-      "packagesPath": "C:\\Users\\yassi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yassi\\Documents\\2021 Ict 2e jaar\\WDPR-2\\SignalRChat\\obj\\",
+      "projectPath": "C:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\SignalRChat.csproj",
+      "packagesPath": "C:\\Users\\ATadm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ATadm\\Desktop\\WDPR1.1\\WDPR\\SignalRChat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yassi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ATadm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
